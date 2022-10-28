@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666986202 source:c:\users\joaod\desktop\trabalho\filaestatica.c
+	"FilaEstatica.h"
+
+1666986107 source:c:\users\joaod\desktop\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"PilhaEstatica.h"
+	"FilaEstatica.h"
+
+1666981999 source:c:\users\joaod\desktop\trabalho\pilhaestatica.c
+	"PilhaEstatica.h"
+
+1666980957 c:\users\joaod\desktop\trabalho\pilhaestatica.h
+
+1666986202 c:\users\joaod\desktop\trabalho\filaestatica.h
+
